@@ -1,0 +1,17 @@
+html {
+
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: #bb2424;
+}
+
+.inner-box {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  background-color: #ace74e;
+}
